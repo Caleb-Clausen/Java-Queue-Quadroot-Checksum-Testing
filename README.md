@@ -40,7 +40,7 @@ Quadratic Root Finder code Output
 
 This program emulates a check sum from a string of integers given by the user such as “1 2 3 4 5 6 7”
 
-Morse code Output
+Check Sum Output
 
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing/blob/master/Queue%20Testing/ReadMeImages/Checksum%20Example.PNG)
 
