@@ -1,5 +1,3 @@
-# Java-Queue-Quadroot-Checksum-Testing
-
 # Queue, Quadratic Root Finder, CheckSum
 
 *Queue 
@@ -13,7 +11,7 @@
 This program creates a basic queue that allows you to add integers and remove integers and set the starting size for queue’s capacity for elements. This is an example of how to build a Queue without heavy library use. 
 
 Queue code Output
-![GitHub Logo]( https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing /blob/master/Queue%20Testing /ReadMeImages/Queue.png)
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing/blob/master/Queue%20Testing/ReadMeImages/Queue.PNG)
 
 
 *Quadratic Root Finder
@@ -26,7 +24,7 @@ Queue code Output
 This program attempts to find the root of the quadratic formula given user input of a, b, c
 
 Quadratic Root Finder code Output
-![GitHub Logo]( https://github.com/Caleb-Clausen/Ciphers-For-Text/blob/master/Queue%20Testing /ReadMeImages/ QuadForm.png)
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing/blob/master/Queue%20Testing/ReadMeImages/RootFinder.PNG)
 
 
 
@@ -41,5 +39,5 @@ Quadratic Root Finder code Output
 This program emulates a check sum from a string of integers given by the user such as “1 2 3 4 5 6 7”
 
 Morse code Output
-![GitHub Logo]( https://github.com/Caleb-Clausen/Ciphers-For-Text/blob/master/Queue%20Testing /ReadMeImages/Checksum%20Example.png)
+![GitHub Logo](https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing/blob/master/Queue%20Testing/ReadMeImages/Checksum%20Example.PNG)
 
