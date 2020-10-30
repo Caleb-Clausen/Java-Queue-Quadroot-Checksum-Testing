@@ -1,6 +1,6 @@
 # Queue, Quadratic Root Finder, CheckSum
 
-*Queue 
+* Queue 
 *  Run Instructions
 1. Download the full repository 
 2. Navigate to the directory then with the Java SE installed open up a cmd terminal.
@@ -15,7 +15,7 @@ Queue code Output
 ![GitHub Logo](https://github.com/Caleb-Clausen/Java-Queue-Quadroot-Checksum-Testing/blob/master/Queue%20Testing/ReadMeImages/Queue.PNG)
 
 
-*Quadratic Root Finder
+* Quadratic Root Finder
 *  Run Instructions
 1. Download the full repository 
 2. Navigate to the directory then with the Java SE installed open up a cmd terminal.
